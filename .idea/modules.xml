@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deep-thought/deep-thought.iml" filepath="$PROJECT_DIR$/deep-thought/deep-thought.iml" />
+      <module fileurl="file://$PROJECT_DIR$/developer/developer.iml" filepath="$PROJECT_DIR$/developer/developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/story-point-converter.iml" filepath="$PROJECT_DIR$/story-point-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
