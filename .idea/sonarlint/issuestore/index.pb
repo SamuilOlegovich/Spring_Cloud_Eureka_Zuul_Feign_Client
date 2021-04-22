@@ -3,8 +3,6 @@ _
 /deep-thought/src/main/resources/application.yml,5/b/5b377aa6168d6064fe2df3d7fed59e1cebe97b95
 \
 ,developer/src/main/resources/application.yml,1/4/14de0c4d7a47e484278584682b434c157de704ce
-Y
-)eureka/src/main/resources/application.yml,4/f/4ffb1e8cc9378d6832a3ebba7db9c8d8a6d8382f
 W
 'zuul/src/main/resources/application.yml,8/8/886e3ae12b12544306fbdf83058099b453c905b6
 M
