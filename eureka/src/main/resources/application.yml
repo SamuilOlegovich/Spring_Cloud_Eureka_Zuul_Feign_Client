@@ -5,6 +5,7 @@ spring:
   application:
     name: eureka
 
+
 eureka:
   server:
     renewal-threshold-update-interval-ms: 1000

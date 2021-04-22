@@ -15,6 +15,7 @@
     </modules>
     <packaging>pom</packaging>
 
+
     <name>Spring-Cloud-Eureka-Zuul-Feign-Client</name>
     <description>Spring-Cloud-Eureka-Zuul-Feign-Client</description>
 

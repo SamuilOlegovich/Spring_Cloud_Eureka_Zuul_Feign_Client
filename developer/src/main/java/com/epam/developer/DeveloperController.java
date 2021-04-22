@@ -15,8 +15,7 @@ public class DeveloperController {
     // time generator
     private final int[] time = {1, 2, 4, 8, 16, 80};
 
-
-
+    
     @GetMapping("/estimation")
     public String getEstimation() {
         int hours = generateTime();

@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class DeepThoughtCaller {
+
     @Autowired
     private DeepThoughtClient deepThoughtClient;
 

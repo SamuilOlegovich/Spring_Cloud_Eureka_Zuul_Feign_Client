@@ -12,6 +12,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableFeignClients(clients = DeepThoughtClient.class)
 public class DeveloperApplication {
+
     public static void main(String[] args) {
         SpringApplication.run(DeveloperApplication.class, args);
     }
